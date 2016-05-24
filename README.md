@@ -1,25 +1,21 @@
-# Dracula Theme
+# Dracula for [Mintty](https://mintty.github.io/)
 
-![Dracula](https://cloud.githubusercontent.com/assets/398893/3528156/4d3d53a8-078c-11e4-8518-820d61886e7a.gif)
+> A dark theme for [Mintty](https://mintty.github.io/).
 
-## Mintty
+![Screenshot](https://draculatheme.com/assets/img/screenshots/mintty.png)
 
-#### Install using Git
+## Install
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+All instructions can be found at [draculatheme.com/mintty](https://draculatheme.com/mintty).
 
-```sh
-$ git clone https://github.com/dracula/mintty.git
-```
+## Team
 
-#### Install manually
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-Download using the [GitHub .zip download](https://github.com/dracula/mintty/archive/master.zip) option and unzip them.
+[![Jimmy Multani](https://avatars3.githubusercontent.com/u/1281284?v=3&s=70)](https://github.com/JimmyMultani) |
+--- |
+[Jimmy Multani](https://github.com/JimmyMultani) |
 
-#### Activating theme
+## License
 
-If you're already running a color scheme under Mintty, be sure to clear the relevant lines in your `~/.minttyrc`.
-
-```sh
-$ cat dracula/mintty/.minttyrc.dracula >> ~/.minttyrc
-```
+[MIT License](./LICENSE)
