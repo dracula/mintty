@@ -2,7 +2,7 @@
 
 > A dark theme for [Mintty](https://mintty.github.io/).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/mintty.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
